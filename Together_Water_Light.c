@@ -1,4 +1,3 @@
-<?rmy
 //流水灯设计
 #include<REGX52.H>
  
